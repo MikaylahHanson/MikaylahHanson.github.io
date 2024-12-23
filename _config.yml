@@ -1,19 +1,10 @@
 title: "Mikaylah Hanson"
 description: "Undergraduate Student at the University of Minnesota"
-theme: minimal-mistakes-jekyll
-baseurl: ""
+theme: "minimal-mistakes-jekyll"
+baseurl: ""  # For GitHub Pages, this should be empty
 url: "https://MikaylahHanson.github.io"
 
-# Sidebar settings
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      author_profile: true
-
-# Navigation links
+# Optional: Customize the navigation bar links (sidebar)
 nav_links:
   - title: "Home"
     url: /
@@ -24,16 +15,14 @@ nav_links:
   - title: "Contact"
     url: /contact/
 
-# Author Profile
+# Author Info (Optional, you can display this in the sidebar)
 author:
   name: "Mikaylah Hanson"
-  avatar: "/assets/images/avatar.png"  # Optional image
-  bio: "Undergraduate Student at the University of Minnesota"
-  location: "Minneapolis, MN"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/MikaylahHanson"
+  email: "mikaylahhanson9@gmail.com"
+  avatar: "/assets/images/avatar.png"  # Put your avatar image in the assets folder (optional)
+
+# Sidebar configuration
+show_sidebar: true  # Make sure sidebar is shown
 
 
 
