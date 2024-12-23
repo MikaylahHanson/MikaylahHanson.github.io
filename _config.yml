@@ -1,15 +1,28 @@
-title: Mikaylah Hanson Undergraduate Student at the University of Minnesota
-description: Physics and Astrophysics Student
-theme: minima
+title: Mikaylah Hanson
+description: Undergraduate Student at the University of Minnesota
+theme: minimal-mistakes-jekyll
 baseurl: ""
 url: "https://MikaylahHanson.github.io"
 
-# Navigation Links
+# Navigation links
 nav_links:
   - title: "Home"
     url: /
-  - title: "About Me"
+  - title: "About"
     url: /about/
   - title: "Projects"
     url: /projects/
+  - title: "Contact"
+    url: /contact/
+
+# Social links
+author:
+  name: "Mikaylah Hanson"
+  email: "mikaylahhanson9@gmail.com"
+  links:
+    - https://github.com/MikaylahHanson
+    - https://linkedin.com/in/your-linkedin
+
+# Sidebar settings
+show_sidebar: true
 
