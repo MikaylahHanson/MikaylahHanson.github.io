@@ -1,2 +1,12 @@
-jekyll-theme-modernist
+title: Mikaylah Hanson Portfolio
+description: Physics and Astrophysics Student
+theme: minimal-mistakes-jekyll
+baseurl: ""
+url: "https://MikaylahHanson.github.io"
+
+author:
+  name: Mikaylah Hanson
+  email: mikaylahhanson9@gmail.com
+  links:
+    - https://github.com/MikaylahHanson
 
