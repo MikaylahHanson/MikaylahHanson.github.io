@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+permalink: /
 ---
 
 Welcome to my portfolio! I am a Physics and Astrophysics student passionate about research and discovery.
