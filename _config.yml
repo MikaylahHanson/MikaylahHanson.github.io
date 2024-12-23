@@ -1,10 +1,19 @@
-title: "Mikaylah Hanson Portfolio"
+title: "Mikaylah Hanson"
 description: "Undergraduate Student at the University of Minnesota"
-theme: minima
-baseurl: ""  # Leave empty for GitHub Pages
+theme: minimal-mistakes-jekyll
+baseurl: ""
 url: "https://MikaylahHanson.github.io"
 
-# Navigation Links
+# Sidebar settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation links
 nav_links:
   - title: "Home"
     url: /
@@ -15,12 +24,20 @@ nav_links:
   - title: "Contact"
     url: /contact/
 
-# Author Info
+# Author Profile
 author:
   name: "Mikaylah Hanson"
-  email: "mikaylahhanson9@gmail.com"
+  avatar: "/assets/images/avatar.png"  # Optional image
+  bio: "Undergraduate Student at the University of Minnesota"
+  location: "Minneapolis, MN"
   links:
-    - https://github.com/MikaylahHanson
-    - https://linkedin.com/in/your-linkedin-profile
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/MikaylahHanson"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-linkedin"
+
+
 
 
