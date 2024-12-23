@@ -10,7 +10,4 @@ Welcome to my portfolio! I am a Physics and Astrophysics student passionate abou
 
 [Learn more about my projects](projects.md)
 
-    </footer>
-</body>
-</html>
 
