@@ -1,10 +1,10 @@
-title: Mikaylah Hanson
-description: Undergraduate Student at the University of Minnesota
-theme: minimal-mistakes-jekyll
-baseurl: ""
+title: "Mikaylah Hanson Portfolio"
+description: "Undergraduate Student at the University of Minnesota"
+theme: minima
+baseurl: ""  # Leave empty for GitHub Pages
 url: "https://MikaylahHanson.github.io"
 
-# Navigation links
+# Navigation Links
 nav_links:
   - title: "Home"
     url: /
@@ -15,14 +15,12 @@ nav_links:
   - title: "Contact"
     url: /contact/
 
-# Social links
+# Author Info
 author:
   name: "Mikaylah Hanson"
   email: "mikaylahhanson9@gmail.com"
   links:
     - https://github.com/MikaylahHanson
-    - https://linkedin.com/in/your-linkedin
+    - https://linkedin.com/in/your-linkedin-profile
 
-# Sidebar settings
-show_sidebar: true
 
