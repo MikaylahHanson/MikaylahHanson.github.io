@@ -1,16 +1,15 @@
 title: Mikaylah Hanson Portfolio
 description: Physics and Astrophysics Student
 theme: minima
-baseurl: ""  # Leave empty for GitHub Pages
+baseurl: ""
 url: "https://MikaylahHanson.github.io"
 
 # Navigation Links
 nav_links:
   - title: "Home"
-    url: "/"
+    url: /
   - title: "About Me"
-    url: "/about/"
+    url: /about/
   - title: "Projects"
-    url: "/projects/"
-  - title: "Contact"
-    url: "/contact/"
+    url: /projects/
+
