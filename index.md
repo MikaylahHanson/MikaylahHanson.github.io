@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Homepage"
 ---
 
 Welcome to my portfolio! I am a Physics and Astrophysics student passionate about research and discovery.
