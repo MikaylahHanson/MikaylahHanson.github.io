@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+permalink: /projects/
 ---
 ## Stratospheric Ballooning
 - Designed and launched a stratospheric balloon with Arduino-based microcontrollers.
