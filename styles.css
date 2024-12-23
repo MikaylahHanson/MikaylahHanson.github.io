@@ -1,3 +1,34 @@
+/* Style for the main header (h1) */
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px; /* Adjust the size */
+    color: #2c3e50; /* Change to a custom color */
+    text-align: center; /* Center-align the header */
+    margin-top: 20px; /* Add spacing at the top */
+    margin-bottom: 10px; /* Add spacing at the bottom */
+}
+
+/* Style for subheaders (h2) */
+h2 {
+    font-family: 'Arial', sans-serif;
+    font-size: 28px; /* Slightly smaller than h1 */
+    color: #34495e; /* A different shade of color */
+    text-align: left; /* Align to the left */
+    margin-top: 20px; /* Spacing at the top */
+    border-bottom: 2px solid #ccc; /* Add an underline effect */
+    padding-bottom: 5px; /* Add spacing under the text */
+}
+
+/* Style for smaller headers (h3) */
+h3 {
+    font-family: 'Arial', sans-serif;
+    font-size: 24px; /* Smaller than h2 */
+    color: #5d6d7e; /* Lighter shade */
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
 nav {
     text-align: center;
     background-color: #f4f4f4;
